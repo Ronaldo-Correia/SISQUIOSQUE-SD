@@ -25,10 +25,12 @@ Sistema distribuído cliente-servidor para gerenciamento de pedidos e pagamentos
 - **java PedidosServer
 
 - **No Segundo Prompt (Cliente):
+- **cd C:\<local dessa pasta>\src2
 - **java QuiosqueCliente
 - ID do Quiosque:12345
 
 - **No Terceiro Prompt (Cliente):
+- **cd C:\<local dessa pasta>\src2
 - **java QuiosqueCliente2
 - ID do Quiosque:12345
 
