@@ -26,9 +26,9 @@ Sistema distribuído cliente-servidor para gerenciamento de pedidos e pagamentos
 
 - **No Segundo Prompt (Cliente):
 - **java QuiosqueCliente
-- **ID do Quiosque:12345
+- ID do Quiosque:12345
 
 - **No Terceiro Prompt (Cliente):
 - **java QuiosqueCliente2
-- **ID do Quiosque:12345
+- ID do Quiosque:12345
 
