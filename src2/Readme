@@ -1,0 +1,10 @@
+No CMD digite:
+cd C:\<local dessa pasta>\src2
+No Primeiro Prompt (Server):
+java PedidosServer
+
+No Segundo Prompt (Cliente):
+java QuiosqueCliente
+
+No Terceiro Prompt (Cliente):
+java QuiosqueCliente2
