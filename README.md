@@ -17,7 +17,7 @@ Sistema distribuído cliente-servidor para gerenciamento de pedidos e pagamentos
 - **Programação concorrente** (Thread-per-request)
 - **Protocolo textual** com delimitadores
 
-##👨‍💻 Como usar
+## 👨‍💻 Como Usar
 
 - **No CMD digite:
 - **cd C:\<local dessa pasta>\src2
