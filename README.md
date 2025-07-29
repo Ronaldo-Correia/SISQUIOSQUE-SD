@@ -20,17 +20,17 @@ Sistema distribuído cliente-servidor para gerenciamento de pedidos e pagamentos
 ## 👨‍💻 Como Usar
 
 - **No CMD digite:
-- **cd C:\<local dessa pasta>\src2
+- **cd /d \<local dessa pasta>\src2
 - **No Primeiro Prompt (Server):
 - **java PedidosServer
 
 - **No Segundo Prompt (Cliente):
-- **cd C:\<local dessa pasta>\src2
+- **cd /d \<local dessa pasta>\src2
 - **java QuiosqueCliente
 - ID do Quiosque:12345
 
 - **No Terceiro Prompt (Cliente):
-- **cd C:\<local dessa pasta>\src2
+- **cd /d \<local dessa pasta>\src2
 - **java QuiosqueCliente2
 - ID do Quiosque:12345
 
