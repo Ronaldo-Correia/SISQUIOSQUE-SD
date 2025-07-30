@@ -1,0 +1,7 @@
+Servidor de pedidos iniciado na porta 12345
+Novo cliente conectado: /127.0.0.1
+Mensagem recebida: 12345|1001:2|DINHEIRO
+Novo cliente conectado: /127.0.0.1
+Mensagem recebida: 1|1001:2|DINHEIRO
+Novo cliente conectado: /127.0.0.1
+Mensagem recebida: 1|1003:3|DINHEIRO

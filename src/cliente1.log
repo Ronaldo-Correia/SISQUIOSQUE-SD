@@ -1,0 +1,31 @@
+Sistema de Pedidos - Quiosque
+Informe o ID do quiosque: 
+Opções:
+1 - Fazer novo pedido
+2 - Sair
+Escolha: 
+Itens disponíveis:
+1001 - Hambúrguer - R$ 15.90
+1002 - Refrigerante - R$ 7.50
+1003 - Batata Frita - R$ 12.00
+1004 - Suco de laranja - R$ 5.00
+
+Digite os itens no formato CODIGO:QUANTIDADE separados por vírgula
+Exemplo: 1001:2,1002:1
+Itens: 
+Métodos de pagamento:
+1 - Cartão de Crédito
+2 - Cartão de Débito
+3 - Dinheiro
+4 - Vale Refeição
+Método: 
+Resposta do servidor: OK|Pedido registrado com sucesso|PED2|31,80|DINHEIRO
+Pedido realizado com sucesso!
+Número do pedido: PED2
+Total: R$ 31,80
+Método de pagamento: DINHEIRO
+
+Opções:
+1 - Fazer novo pedido
+2 - Sair
+Escolha: 
