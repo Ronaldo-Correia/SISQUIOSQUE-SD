@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuiosqueCliente2",
+            "request": "launch",
+            "mainClass": "QuiosqueCliente2",
+            "projectName": "SISQUIOSQUE-SD_4d18bd0d"
+        },
+        {
+            "type": "java",
+            "name": "QuiosqueCliente",
+            "request": "launch",
+            "mainClass": "QuiosqueCliente",
+            "projectName": "SISQUIOSQUE-SD_4d18bd0d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
